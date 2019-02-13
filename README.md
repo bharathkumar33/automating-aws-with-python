@@ -1,10 +1,11 @@
 # automating-aws-with-python
 
 Repository for the cloud gurus
-##01-webotron
+
+#01-webotron
 Webotron will sync local directory to S3 bucket
 
-###Features
+#Features
 
 Webotron has following features
 
